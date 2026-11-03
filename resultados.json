@@ -1,0 +1,61 @@
+{
+  "N": 2,
+  "repeticiones": 3,
+  "secuencial": {
+    "tiempos": [
+      49.686513,
+      49.871095,
+      49.722428
+    ],
+    "mediana": 49.722428,
+    "resueltos": 30
+  },
+  "tableros": {
+    "tiempos": [
+      26.440489,
+      26.575228,
+      26.490127
+    ],
+    "mediana": 26.490127,
+    "resueltos": 30
+  },
+  "ramas": {
+    "tiempos": [
+      26.19975,
+      24.929778,
+      24.800181
+    ],
+    "mediana": 24.929778,
+    "resueltos": 30
+  },
+  "hibrido_por_grupo": {
+    "1": {
+      "tiempos": [
+        25.565152,
+        25.636701,
+        26.000899
+      ],
+      "mediana": 25.636701,
+      "resueltos": 30
+    },
+    "2": {
+      "tiempos": [
+        24.456115,
+        24.399282,
+        24.507624
+      ],
+      "mediana": 24.456115,
+      "resueltos": 30
+    }
+  },
+  "hibrido": {
+    "tiempos": [
+      24.456115,
+      24.399282,
+      24.507624
+    ],
+    "mediana": 24.456115,
+    "resueltos": 30,
+    "tam_grupo": 2
+  }
+}
